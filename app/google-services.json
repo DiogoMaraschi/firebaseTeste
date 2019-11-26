@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289786776965",
+    "firebase_url": "https://testeaula-1fc1c.firebaseio.com",
+    "project_id": "testeaula-1fc1c",
+    "storage_bucket": "testeaula-1fc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289786776965:android:10968da717c6cffaba48ec",
+        "android_client_info": {
+          "package_name": "br.ifsc.edu.aulafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289786776965-fp40apj6ti2suvopg017r3lded6723uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.ifsc.edu.aulafirebase",
+            "certificate_hash": "bec76724069a30dd491ec36d7ee0be808b79c941"
+          }
+        },
+        {
+          "client_id": "289786776965-tf4h8n8otmgr6quhas3j7i2k9hgjnsjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLWmncfoUSAakf_wFcr-uE_-c0tI1-EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289786776965-tf4h8n8otmgr6quhas3j7i2k9hgjnsjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
